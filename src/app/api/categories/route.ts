@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import supabase from "@/supabase/client";
 
 export async function GET() {
